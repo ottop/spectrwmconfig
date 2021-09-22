@@ -15,3 +15,5 @@ In my case, I used j4-dmenu-desktop (found here: https://github.com/enkore/j4-dm
 ## Example screenshots
 
 ![spectrwm](https://user-images.githubusercontent.com/60475104/134374766-ae58023d-1186-4aa6-bed8-7acf3d778e33.png)
+
+You can get the wallpaper here: https://www.pling.com/p/1602586/
